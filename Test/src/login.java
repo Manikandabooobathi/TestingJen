@@ -7,7 +7,7 @@ public static void main(String[] args) {
 }
 	private void msin() {
 		System.out.println("this is for login test");
-		System.out.println("this is for login test2d");
+		System.out.println("this is for login test2otd");
 
 	}
 }
